@@ -8,13 +8,13 @@ export const ApplyChangesButton = () => {
   return (
     <>
       {isEditing && (
-        <div className="flex justify-end my-5 z-50 mr-48">
+        <div className="flex justify-end z-50 mr-48 w-full h-full">
           <Button
             onClick={() => {
               setIsEditing(false);
               router.refresh();
             }}
-            className="cursor-pointer z-50"
+            className="cursor-pointer z-50 absolute top-12 left-10"
           >
             Apply Changes
           </Button>

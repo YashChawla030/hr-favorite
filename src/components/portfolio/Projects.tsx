@@ -16,8 +16,8 @@ export const Projects = () => {
       saveProjectsInfo={saveProjectsInfo}
       projectsInfo={projectsInfo}
       isLoading={isLoading}
-      circleClassName="bg-fuchsia-300 dark:bg-fuchsia-300"
-      lineClassName="from-purple-800 via-pink-700"
+      circleClassName="bg-blue-300 dark:bg-blue-300"
+      lineClassName="from-violet-800 via-blue-700"
     />
   );
 };
