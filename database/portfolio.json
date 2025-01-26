@@ -2,14 +2,16 @@
   "personalInfo": {
     "displayName": "",
     "name": "Yash Chawla",
-    "contactNumber": "9364001200",
+    "contactNumber": "93640012XX",
     "email": "yashchawla@gmail.com",
     "socialMedia": {
       "linkedIn": "https://www.linkedin.com/in/deepakpahawa/",
       "github": "https://github.com/deepakpahwa19",
-      "youtube": "https://www.linkedin.com/in/deepakpahawa/"
+      "youtube": "https://www.linkedin.com/in/deepakpahawa/",
+      "xdotcom": "a"
     },
-    "resumeName": "Deepak Pahawa_CV.docx"
+    "resumeName": "Deepak Pahawa_CV.docx",
+    "gender": "Male"
   },
   "heroInfo": {
     "displayName": "",
