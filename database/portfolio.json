@@ -20,81 +20,8 @@
     "description": "I am expert at crafting optimized web solutions and staying up-to-date with the latest technologies. My goal is to deliver high-quality, efficient, and user-friendly applications that exceed expectations."
   },
   "skillsInfo": {
-    "displayName": "",
-    "skills": [
-      {
-        "name": "TypeScript",
-        "rating": 8.5
-      },
-      {
-        "name": "JavaScript",
-        "rating": 10
-      },
-      {
-        "name": "NextJS",
-        "rating": 8.5
-      },
-      {
-        "name": "Tailwind CSS",
-        "rating": 7.5
-      },
-      {
-        "name": "Material UI",
-        "rating": 8
-      },
-      {
-        "name": "ReactJS",
-        "rating": 3
-      },
-      {
-        "name": "ReactJS",
-        "rating": 8.5
-      },
-      {
-        "name": "ReactJS",
-        "rating": 8.5
-      },
-      {
-        "name": "ReactJS",
-        "rating": 8.5
-      },
-      {
-        "name": "ReactJS",
-        "rating": 8.5
-      },
-      {
-        "name": "ReactJS",
-        "rating": 8.5
-      },
-      {
-        "name": "ReactJS",
-        "rating": 8.5
-      },
-      {
-        "name": "ReactJS",
-        "rating": 8.5
-      },
-      {
-        "name": "ReactJS",
-        "rating": 8.5
-      },
-      {
-        "name": "ReactJS",
-        "rating": 8.5
-      },
-      {
-        "name": "ReactJS",
-        "rating": 8.5
-      },
-      {
-        "name": "ReactJS",
-        "rating": 8.5
-      },
-      {
-        "name": "ReactJS",
-        "rating": 8.5
-      }
-    ]
+    "displayName": "Skills",
+    "skills": []
   },
   "projectsInfo": {
     "displayName": "",
