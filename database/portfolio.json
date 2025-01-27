@@ -20,7 +20,7 @@
     "description": "I am expert at crafting optimized web solutions and staying up-to-date with the latest technologies. My goal is to deliver high-quality, efficient, and user-friendly applications that exceed expectations."
   },
   "skillsInfo": {
-    "displayName": "Arsenal",
+    "displayName": "",
     "skills": [
       {
         "name": "TypeScript",
@@ -45,6 +45,54 @@
       {
         "name": "ReactJS",
         "rating": 3
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
       }
     ]
   },
