@@ -21,7 +21,64 @@
   },
   "skillsInfo": {
     "displayName": "Skills",
-    "skills": []
+    "skills": [
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      }
+    ]
   },
   "projectsInfo": {
     "displayName": "",
